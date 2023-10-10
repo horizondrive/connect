@@ -8,7 +8,7 @@ Horizon Connect seamlessly integrates various Cloudflare services to provide a p
 
 ### Why Cloudflare?
 We've chosen Cloudflare as our hosting partner for several compelling reasons:
- - **Global Network Reach**: Cloudflare's extensive global network spans over 250 cities in more than 100 counties, ensuring that our services are accessible to users worldwide. This global presence provides low-latency access and high reliability.
+ - **Global Network Reach**: Cloudflare's extensive global network spans over 300 cities in more than 100 counties, ensuring that our services are accessible to users worldwide. This global presence provides low-latency access and high reliability.
  - **Edge Network Advantages**: Leveraging Cloudflare's edge computing capabilities, we can process user requests at data centers closest to their geographical location. This optimization reduces latency and enhances overall performance, delivering a seamless experience.
  - **Cost-Effective solutions**: Cloudflare offers competitive pricing, allowing us to provide accessible services without compromising quality or affordabilitiy. We strive to offer a service that remains cost-effective for both our users and our project.
  - **Data Privacy Assurance**: Your data privacy is paramount to us. Cloudflare's strict policy against selling personal data aligns perfectly with our commitment to user trust and confidentiality. Your information remains protected, and your privacy is our priority.
